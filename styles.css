@@ -1,0 +1,16 @@
+body {
+    background-color: #F7F8FC;
+}
+
+.parent {
+    min-height: calc(100vh - 9.25rem);
+    width: 100%;
+}
+
+.columns {
+    min-height: calc((100vh - 9.25rem)/3);
+}
+
+.column {
+    background-color: white;
+}
